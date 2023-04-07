@@ -39,7 +39,7 @@ const ExerciseCard = ({ exercise }) => {
                 mt="11px"
                 pb="10px"
                 textTransform="capitalize"
-                fontsize="22px"
+                fontSize="22px"
             >
                 {" "}
                 {exercise.name}
